@@ -1,0 +1,28 @@
+/* //banner text */
+
+.banner_bottom {
+    background: #f7f7f7;
+}
+
+
+p.sub-tittle {
+    font-size: 1.1em;
+    font-weight: 400;
+    color: #555;
+}
+
+.pink {
+    color: #769fcd;
+}
+
+h3.tittle-w3ls,
+h3.tittle-w3ls.two {
+    color: #1b1b1b;
+    font-size: 2.5em;
+    font-weight: 700;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+
+h3.tittle-w3ls.two {
+    color: #fff;
+}

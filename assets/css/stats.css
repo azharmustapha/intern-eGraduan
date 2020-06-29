@@ -1,0 +1,89 @@
+/*-- banner bottom --*/
+
+.bottom_grids p {
+    color: #777;
+}
+.bottom_grids h3 {
+    font-size: 25px;
+    color: #333;
+}
+.bottom_grids span.fa {
+    font-size: 40px;
+    color: #333;
+}
+.grid1 span.fa {
+    color: #f85a40;
+}
+.grid2 span.fa {
+    color: #30c39e;
+}
+.grid3 span.fa {
+    color: #0a8ea0;
+}
+.grid4 span.fa {
+    color: #ff4f81;
+}
+.grid5 span.fa {
+    color: #2dde98;
+}
+.grid6 span.fa {
+    color: #1cc7d0;
+}
+.grid7 span.fa {
+    color: #3369e7;
+}
+/*-- //banner bottom --*/
+
+/* stats */
+
+p.counter {
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.text-stat p {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    letter-spacing: .5px;
+}
+p.para-text-w3ls{
+    color: rgb(0, 0, 0)15, 15, 15);
+    font-size: 15px;
+}
+.w3layouts_stats_left span.fa {
+    font-size: 35px;
+    color: #ffffff;
+}
+.text-stat h4 {
+    font-size: 22px;
+    color: #000000;
+    line-height: 35px;
+    padding: 1em;
+    border: 8px solid rgb(0, 0, 0);
+}
+
+/* //stats */
+
+/*-- clients --*/
+.clients h2.heading, .middlesection-stat h3.heading{
+	color: #fff;
+}
+.c-left img {
+    border-radius: 50%;
+    float: left;
+    max-width: 32%;
+}
+.client-grid {
+    background: #fff;
+    padding: 2.5em;
+}
+
+.client-right h2 {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 700;
+    padding-top: 2.5em;
+    text-transform: capitalize;
+}
+/*-- //clients --*/
